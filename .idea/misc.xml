@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/drawable/google_tab_indicator.xml" value="0.2074074074074074" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/drawable/ic_baseline_beach_access_24.xml" value="0.2074074074074074" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/drawable/ic_baseline_directions_bike_24.xml" value="0.2074074074074074" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/drawable/simple_tab_indicator.xml" value="0.2074074074074074" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/activity_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/badge_tab_layout.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/classic_tab_layout.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/fragment_home.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/fragment_notification.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/fragment_profile.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/google_tab_layout.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/icon_tab_layout.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/icon_with_badge_tab_layout.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/item_layout_view_pager.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/simple_tab_layout.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/tab_layout.xml" value="0.25677083333333334" />
+        <entry key="..\:/CS/4th Year/TabLayoutAndViewPager/app/src/main/res/layout/vp_tab_layout.xml" value="0.25677083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

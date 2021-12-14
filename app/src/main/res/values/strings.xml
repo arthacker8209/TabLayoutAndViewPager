@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TabLayoutAndViewPager</string>
+    <string name="google_tab_layout">Google Tab Layout</string>
+    <string name="icon_with_badge">Icon with Badge</string>
+    <string name="badge_tab_layout">Badge Tab Layout</string>
+    <string name="classic_tab_layout">Classic Tab Layout</string>
+    <string name="simple_tab_layout">Simple Tab Layout</string>
+    <string name="timeline">Timeline</string>
+    <string name="about">About</string>
+    <string name="this_is_a_long_text_example">This is a long text example</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="activity">Activity</string>
+    <string name="hello">Hello</string>
+</resources>
